@@ -1,3 +1,4 @@
+#This is the main program starting point
 #break program into multiple files
 import .models
 import .views
