@@ -2,7 +2,6 @@
 # import needed modules
             
 #define google search function 
-#accepts 
 #if user chose google then
     #if user chose terms to use with every search, then
             
