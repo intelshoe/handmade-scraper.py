@@ -1,7 +1,7 @@
 #This is the main program starting point
 #break program into multiple files
-import .models
-import .views
+import .search
+import .parse
 
 #run searches
 
