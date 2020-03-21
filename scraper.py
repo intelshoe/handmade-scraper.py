@@ -27,7 +27,9 @@ import .parse
 #default = 50
 
 #run search using options from above
+#return any errors found
 
 #run search results through parser, also using options from above
+#return any errors
 
 #return csv file location
