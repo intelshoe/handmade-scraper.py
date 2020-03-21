@@ -26,3 +26,8 @@ import .parse
 #finally user inputs amount of potentials to find in total
 #default = 50
 
+#run search using options from above
+
+#run search results through parser, also using options from above
+
+#return csv file location
