@@ -1,7 +1,7 @@
 # handmade-scraper.py
-Python scraper to find handmade products and list them on a website. 
+Python scraper to find handmade products and list them in a CSV file.
 
 Organized into 3 main parts (based on MVC):
-- scraper.py - runs from command line, tells search and post to execute, reports errors to log file, and sends good posts to site
-- parse.py - parses for potential good content and organizes the information into a wordpress postable format
+- scraper.py - takes user input, tells search and parse to execute, and reports errors
+- parse.py - parses for potential good content and organizes the information into a csv file
 - search.py - performs actualy web searches
