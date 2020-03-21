@@ -4,11 +4,8 @@ import .search
 import .parse
 
 #user inputs search engine preference
-#big ones: google, bing, yahoo, duckduckgo
-#or ecommerce site search: etsy, amazon, craigslist, facebook markets, small forums, private sites
-#and even sub-sites of the big search engines related to shopping
-
-#user may choose several engines, which will randomize searches through them
+#right now only supporting google and etsy searches
+#user may choose "all", which will randomize searches through them
 
 #user chooses "Dorks" for optimizing search
 #options could be default, random, or custom
@@ -17,7 +14,7 @@ import .parse
 #user chooses keyword list
 #default or custom
 
-#user chooses amount of keywords to use at one time
+#user chooses amount of search terms to use at one time
 #1 term only, 2 terms, 3 terms, 4 terms, or random
 
 #user inputs additional terms, such as dates, up to 4 - optional
