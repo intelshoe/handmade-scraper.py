@@ -1,5 +1,5 @@
 # This script will search using user input from scraper.py
-# import needed files
+# import needed modules
             
 #define google search function 
 #if user chose google then
