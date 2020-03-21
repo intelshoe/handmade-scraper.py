@@ -1,7 +1,7 @@
 # This script will search google using our web dorks file and search term file
 # import needed files
 import requests
-import urllib.request
+from bs4 import BeautifulSoup
 
 #function to perform search
 def search(query):
