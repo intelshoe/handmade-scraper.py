@@ -4,7 +4,7 @@ import .search
 import .parse
 
 #user inputs search engine preference
-#big ones: google, bing, yahoo
+#big ones: google, bing, yahoo, duckduckgo
 #or ecommerce site search: etsy, amazon, craigslist, facebook markets, small forums, private sites
 #and even sub-sites of the big search engines related to shopping
 
