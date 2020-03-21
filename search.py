@@ -15,7 +15,7 @@ def search(query):
        if 'facebook.com' in link.get('href'):
            print link.get('href')
             
- #define search function
+
  
 #if user chose google then
     #if user chose terms to use with every search, then
