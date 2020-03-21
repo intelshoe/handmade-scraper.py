@@ -5,7 +5,7 @@ import .parse
 
 #user inputs search engine preference
 #right now only supporting google and etsy searches
-#user may choose "all", which will randomize searches through them
+#user may choose "both"
 
 #user chooses "Dorks" for optimizing search
 #options could be default, random, or custom
