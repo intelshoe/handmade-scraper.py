@@ -1,15 +1,11 @@
-# This script will search using user input from scraper.py
+# This script will call the correct search script using user input from scraper.py
 # import needed modules
             
-#define google search function 
-#if user chose google then
-    #if user chose terms to use with every search, then
-            
-    #elif user wants to add terms to keyword list, then
-        #add terms to search term list
-            
+#if google, call the google script ( pass options ) 
+
+#if amazon, call the amz script ( pass options )
+
+# ... etc.
+
 #else
-#print("Invalid search options")            
-
-#define etsy search function
-
+#print("Invalid search options")     
