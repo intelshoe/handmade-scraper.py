@@ -2,30 +2,25 @@
 #break program into multiple files
 import .search
 import .parse
+#import other needed modules
 
-#user inputs search engine preference
-#right now only supporting google and etsy searches
 
-#user chooses "Dorks" for optimizing search
-#options could be default, random, or custom
-#custom allows dorks for beginning, middle, and end of search string
+#start of function to initialize browser 
+#and make sure it works
 
-#user chooses keyword list
-#default or custom
+#end of browser setup
 
-#user chooses amount of search terms to use at one time
-#1 term only, 2 terms, 3 terms, 4 terms, or random
 
-#user inputs additional terms, such as dates, up to 4 - optional
-#user has option to add to regular term list or use in every search
+# take user input from script start and pass to variables
 
-#finally user inputs amount of potentials to find in total
-#default = 50
 
-#run search using options from above
-#return any errors found
+# depending on search provider selected in user input, 
+# load the appropriate script and pass options and search
 
-#run search results through parser, also using options from above
-#return any errors
 
-#return csv file location
+# if search complete, take user input parsing options
+# and run parse to sift through scraped data and save
+
+
+# if all is well, 
+# pass info needed to site to review/publish
